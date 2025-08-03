@@ -1,3 +1,2 @@
-tutorial/
-*.env
 python_env/
+*.env
